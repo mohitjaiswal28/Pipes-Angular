@@ -77,7 +77,7 @@ git clone https://github.com/mohitjaiswal28/Pipes-Angular.git
 2. Navigate to the project directory:
 
 ```
-cd DataBinding-Angular
+cd Pipes-Angular
 ```
 
 3. Install the dependencies:
